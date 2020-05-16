@@ -1,0 +1,23 @@
+{
+  "name": "hello-tdd",
+  "version": "1.0.0",
+  "description": "Test Driven Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esteban9706/hello-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esteban9706/hello-tdd/issues"
+  },
+  "homepage": "https://github.com/esteban9706/hello-tdd#readme",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  }
+}
